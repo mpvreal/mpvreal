@@ -20,9 +20,9 @@
 </div>
 <h2><samp>O que você encontrará aqui:</samp></h2>
 <ul>
-    <li><samp><strong>Projetos Pessoais -</strong> Diversos projetos que desenvolvi por curiosidade ou para resolver problemas específicos;</samp></li>
-    <li><samp><strong>Contribuições Open Source -</strong> Colaborações e melhorias que fiz em projetos de código aberto;</samp></li>
-    <li><samp><strong>Repositórios de Estudo -</strong> Trabalhos e materiais de estudo que usei ao longo da minha jornada acadêmica.</samp></li>
+    <li><samp><strong>💻 Projetos Pessoais -</strong> Diversos projetos que desenvolvi por curiosidade ou para resolver problemas específicos;</samp></li>
+    <li><samp><strong>👥 Contribuições Open Source -</strong> Colaborações e melhorias que fiz em projetos de código aberto;</samp></li>
+    <li><samp><strong>📚 Repositórios de Estudo -</strong> Trabalhos e materiais de estudo que usei ao longo da minha jornada acadêmica.</samp></li>
 </ul>
 <p><samp>Sinta-se à vontade para explorar, contribuir e conectar-se comigo!</samp></p>
 
